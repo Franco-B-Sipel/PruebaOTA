@@ -9,12 +9,12 @@
     [
         {
             "version": 1001,
-            "archivo_binario_firmware": "https://raw.githubusercontent.com/Franco-B-Sipel/PruebaOTA/main/ESP32_BLINK.bin"
+            "archivo_binario_firmware": "https://raw.githubusercontent.com/Franco-B-Sipel/PruebaOTA/main/ESP32_BLINK_S200.bin"
         },
 
         {
             "version": 111002,
-            "archivo_binario_firmware": "https://raw.githubusercontent.com/Franco-B-Sipel/PruebaOTA/main/ESP32_BLINK.bin"
+            "archivo_binario_firmware": "https://raw.githubusercontent.com/Franco-B-Sipel/PruebaOTA/main/ESP32_BLINK_S200.bin"
         }
     ]
 }
